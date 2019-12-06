@@ -6,6 +6,10 @@ Linear regression is a method that summarizes how the average values of a numeri
 
 To begin, we start by loading our first dataset into Python to fit a linear model to explore the question of how can we can infer casual relationships with varying levels of certainty and confirm if linear modelling is appropriate for your needs.
 
+----
+
+See the code in [R](https://euler777.github.io/LinearModels.github.io/)
+
 # Python
 ```markdown
 # Standalone simple linear regression example
